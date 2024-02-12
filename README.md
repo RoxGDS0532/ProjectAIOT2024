@@ -13,12 +13,13 @@
 | Id | Componente | DEscripcion |Imagen |Cantidad |Costo total|
 |----|------------|-------------|-------|---------|-----------|
 |    |            |             |       |         |           |
-|
-|
+|    |            |             |       |         |           |
+
 ## Lista de Software Utilizado
 
-|Id |Software |Version |Tipo
-
+|Id |Software |Version |Tipo|
+|---|---------|--------|----|
+|   |         |        |    |
 ## Visión del producto 
 PARA cliente objetivo
 QUIEN declar la necesidad
@@ -33,8 +34,8 @@ NUESTRO PRODUCTO PRODUCTO declaracion diferencial
 -ESP 32
 
 ## Funcionalidades del proyecto
-Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable
-                            Alta       Cual mas esfuerzo
+|Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
+|---|----------------------|- Alta    -|- esfuerzo -|               |             |
 
 ## Prototipo en Dibujo
 -Coloca una imagen de tu proyecto al iniciar el desarrollo
