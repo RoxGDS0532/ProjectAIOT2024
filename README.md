@@ -1,1 +1,48 @@
-# ProjectAIOT2024
+# Nombre del proyecto
+## Integrantes
+-Lista de los integrantes(Nombre completo y numero de control)
+-Ortega Renteria Maria Roxana 1222100822
+## Carta de liberación del proyecto (imagen)
+-Dirgida al docento
+-Expresar las funcionalidades que tiene el proyecto
+-Nombre de los integrantes qu eparticparon en el proyecto
+-Firmada por el empresario o docenete ageno a la UTNG, agradeciendo la contribucion de la UTNG.
+-Hoja Membretada (Logro de la empresa, direccion y contacto)
+
+## Lista del Hardware utilizada
+| Id | Componente | DEscripcion |Imagen |Cantidad |Costo total|
+|----|------------|-------------|-------|---------|-----------|
+|    |            |             |       |         |           |
+|
+|
+## Lista de Software Utilizado
+
+|Id |Software |Version |Tipo
+
+## Visión del producto 
+PARA cliente objetivo
+QUIEN declar la necesidad
+EL nombre del projecto QUE ES UNA SOLUCION DE IOT
+A DIFERENCIA DE competidor/alternativa
+NUESTRO PRODUCTO PRODUCTO declaracion diferencial
+
+
+## Conexiones 
+-Imagenes de Wokwi, Fritzing o de otro software que me permita mostrar las conexiones del circuito
+-Raspberry Pi
+-ESP 32
+
+## Funcionalidades del proyecto
+Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable
+                            Alta       Cual mas esfuerzo
+
+## Prototipo en Dibujo
+-Coloca una imagen de tu proyecto al iniciar el desarrollo
+
+## Evidencias 
+-Caaptura de pantalla de los flujos de node RED
+-Captura de pantalla del proyecto DASHBOARD Y pantalla de la ESP32
+- Video demostrativo de las funcionalidades del proyecto
+- Codigo fuente (PROHIBIDO PONER COMPRIMIDOS)
+- 
+
