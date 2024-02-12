@@ -1,7 +1,11 @@
-# Nombre del proyecto
+# Tecnotails
+
 ## Integrantes
 -Lista de los integrantes(Nombre completo y numero de control)
--Ortega Renteria Maria Roxana 1222100822
+- Ortega Renteria Maria Roxana 1222100822
+- Ramirez Sanchez Oscar 1222100812
+- Mata Hernández José Manuel 1222100430
+  
 ## Carta de liberación del proyecto (imagen)
 -Dirgida al docento
 -Expresar las funcionalidades que tiene el proyecto
@@ -35,13 +39,16 @@ NUESTRO PRODUCTO PRODUCTO declaracion diferencial
 
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
-|---|----------------------|- Alta    -|- esfuerzo -|               |             |
-
+|---|----------------------|-----------|------------|---------------|-------------|
+| 1 |Con el sensor de flujo se medirá la cantidad de agua al usar en la mezcla de esmalte| Alta | Alta | Preparar mezcla de esmalte | Oscar |
+| 2 |Con el buzzer passivo sonará una alerta cuando se pase el tiempo de cocción | Media | Alta | 
+| 3 |Con un relay KY-019 controlará la velocidad del motor de la batidora | Alta | Alta | Una preparación de esmalte | Manuel |
+| 4 | 
 ## Prototipo en Dibujo
 -Coloca una imagen de tu proyecto al iniciar el desarrollo
 
 ## Evidencias 
--Caaptura de pantalla de los flujos de node RED
+-Captura de pantalla de los flujos de node RED
 -Captura de pantalla del proyecto DASHBOARD Y pantalla de la ESP32
 - Video demostrativo de las funcionalidades del proyecto
 - Codigo fuente (PROHIBIDO PONER COMPRIMIDOS)
