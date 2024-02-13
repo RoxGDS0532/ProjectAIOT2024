@@ -15,7 +15,8 @@
 ## Lista del Hardware utilizada
 | Id | Componente | DEscripcion |Imagen |Cantidad |Costo total|
 |----|------------|-------------|-------|---------|-----------|
-|    |            |             |       |         |           |
+|    |            |             |![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/275241b1-92dd-43be-bbd7-e692496a6b7f)
+       |         |           |
 |    |            |             |       |         |           |
 
 ## Lista de Software Utilizado
@@ -40,7 +41,7 @@ NUESTRO PRODUCTO PRODUCTO declaracion diferencial
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
 |---|----------------------|-----------|------------|---------------|-------------|
 | 1 |Con el sensor de flujo se medirá la cantidad de agua al usar en la mezcla de esmalte| Alta | Alta | Preparar mezcla de esmalte | Oscar |
-| 2 |Con el buzzer passivo sonará una alerta cuando se pase el tiempo de cocción | Media | Alta | 
+| 2 |Con el buzzer passivo sonará una alerta cuando se pase el tiempo de cocción | Media | Alta | Roxana | 
 | 3 |Con un relay KY-019 controlará la velocidad del motor de la batidora | Alta | Alta | Una preparación de esmalte | Manuel |
 | 4 | 
 ## Prototipo en Dibujo
