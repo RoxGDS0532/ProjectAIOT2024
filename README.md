@@ -1,9 +1,9 @@
 # Tecnotails
 
 ## Integrantes
+- Mata Hernández José Manuel 1222100430
 - Ortega Renteria Maria Roxana 1222100822
 - Ramirez Sanchez Oscar 1222100812
-- Mata Hernández José Manuel 1222100430
   
 ## Carta de liberación del proyecto (imagen)
 - Dirgida al docento
