@@ -41,7 +41,7 @@
 
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
-|---|----------------------|-----------|------------|:---: |:---: |
+|---|----------------------|-----------|:---:  -|--- |:---: |
 | 1 |Con el sensor de flujo se medirá la cantidad de agua al usar en la mezcla de esmalte| Alta | Alta | Preparar mezcla de esmalte | Oscar |
 | 2 |Con el buzzer activo sonará una alerta cuando se pase el tiempo de cocción | Media | Alta |Prender el horno y hornear| Roxana | 
 | 3 |Con un relay KY-019 controlará la velocidad del motor de la batidora | Alta | Alta | Una preparación de esmalte | Manuel |
