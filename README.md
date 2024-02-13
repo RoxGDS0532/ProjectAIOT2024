@@ -31,11 +31,7 @@
 | 5 |Thonny| 4.1.2|Software Libre|
 
 ## Visión del producto 
-PARA cliente objetivo
-QUIEN declar la necesidad
-EL nombre del projecto QUE ES UNA SOLUCION DE IOT
-A DIFERENCIA DE competidor/alternativa
-NUESTRO PRODUCTO PRODUCTO declaracion diferencial
+"Para artistas y artesanos de la talavera que buscan mejorar la eficiencia y calidad en la producción tradicional de la talavera, EL sistema Tecnotails es un sistema de IoT integrado que optimiza el proceso de producción mediante la monitorización en tiempo real y la regulación automatizada. A diferencia de los métodos tradicionales que pueden llevar a errores y desperdicio de materiales, nuestro sistema proporciona una solución tecnológica innovadora que preserva la autenticidad del arte de la talavera mientras mejora la eficiencia y calidad en cada etapa del proceso."
 
 
 ## Conexiones 
