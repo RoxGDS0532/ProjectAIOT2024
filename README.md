@@ -24,7 +24,12 @@
 
 |Id |Software |Version |Tipo|
 |---|---------|--------|----|
-|   |         |        |    |
+|-1-|Node-RED |2.0|Software Libre|
+|-2-|MQTT     |3.1|Protocolo de mensajería ligero|
+|-3-|MicroPython|3.4|Lenguaje de programación|
+|-4-|Raspbian|11|Sistema Operativo|
+|-5-|Thonny| 4.1.2|Software Libre|
+
 ## Visión del producto 
 PARA cliente objetivo
 QUIEN declar la necesidad
