@@ -18,6 +18,7 @@
 | 1  |Sensor de Flujo| Un sensor de flujo es un dispositivo que detecta y mide la cantidad de líquido, gas o vapor que pasa por un conducto en un tiempo determinado. Es crucial para controlar y optimizar procesos en una variedad de aplicaciones industriales y comerciales.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/275241b1-92dd-43be-bbd7-e692496a6b7f)| 1 | $135.00 |
 | 2  | Buzzer Activo |Un buzzer activo es un dispositivo que puede generar sonido por sí mismo cuando se le aplica energía eléctrica. Se utiliza en dispositivos electrónicos para producir diferentes tonos y alertas.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/fcb56cc2-f907-467a-b145-2c4e0f913099)| 2 |$40.00|
 | 3  | Relay KY-019 | El módulo Relay KY-019 es un interruptor controlado por señales eléctricas de bajo voltaje, utilizado para controlar dispositivos de alto voltaje o corriente en proyectos electrónicos.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/074781e2-bf03-4986-aa22-d19a952635b7)| 1 | $170.00|
+| 4 |con un potenciometro controlaremos un motor a pasos que hara la funcion de mezclar esmalte con los distintas tonalidades de colores|Media|Alta| se evaluara distintas mediciones para evitar que se muy rapido el movimiento | Manuel |
 
 
 ## Lista de Software Utilizado
