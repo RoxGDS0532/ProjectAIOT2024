@@ -3,25 +3,24 @@
 ## Integrantes
 - Mata Hernández José Manuel 1222100430
 - Ortega Renteria Maria Roxana 1222100822
-- Ramirez Sanchez Oscar 1222100812
   
 ## Carta de liberación del proyecto (imagen)
 - Dirgida al docento
 - Expresar las funcionalidades que tiene el proyecto
-- Nombre de los integrantes qu eparticparon en el proyecto
+- Nombre de los integrantes que particparon en el proyecto
 - Firmada por el empresario o docenete ageno a la UTNG, agradeciendo la contribucion de la UTNG.
-- Hoja Membretada (Logro de la empresa, direccion y contacto)
+- Hoja Membretada (Logo de la empresa, direccion y contacto)
 
 ## Lista del Hardware utilizada
 | Id | Componente | Descripcion |Imagen |Cantidad |Costo total|
 |----|------------|-------------|-------| :---:  | :---: |
-| 1  |Sensor de Flujo| Un sensor de flujo es un dispositivo que detecta y mide la cantidad de líquido, gas o vapor que pasa por un conducto en un tiempo determinado. Es crucial para controlar y optimizar procesos en una variedad de aplicaciones industriales y comerciales.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/275241b1-92dd-43be-bbd7-e692496a6b7f)| 1 | $135.00 |
+| 1  | MQ2 Sensor de gas| El sensor de gas MQ2 es un sensor electrónico que detecta la concentración de gases en el aire123. Es utilizado para medir concentraciones de gas en el aire, como GLP, propano, metano, hidrógeno, alcohol, humo y monóxido de carbono.|![image](https://th.bing.com/th/id/OIP.tJ_XQXFZ9nyScl1avS5ywwHaHa?w=208&h=208&c=7&r=0&o=5&dpr=1.5&pid=1.7)| 1 | $139.00 |
 | 2  | Buzzer Activo |Un buzzer activo es un dispositivo que puede generar sonido por sí mismo cuando se le aplica energía eléctrica. Se utiliza en dispositivos electrónicos para producir diferentes tonos y alertas.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/fcb56cc2-f907-467a-b145-2c4e0f913099)| 2 |$40.00|
-| 3  | Relay KY-019 | El módulo Relay KY-019 es un interruptor controlado por señales eléctricas de bajo voltaje, utilizado para controlar dispositivos de alto voltaje o corriente en proyectos electrónicos.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/074781e2-bf03-4986-aa22-d19a952635b7)| 1 | $170.00|
-| 4 | KY-001 Temperature Sensor Module|El módulo KY-001 es un sensor de temperatura digital que utiliza el sensor DS18B20. Se conecta fácilmente a microcontroladores como Arduino y es ideal para medir temperaturas con precisión.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/d3c5a114-ba8e-464e-812e-a292e80ad57a)| 1 | $42.00|
-| 5 | Potenciometro | El potenciómetro es un componente electrónico de tres terminales que se utiliza para controlar la resistencia eléctrica ajustando un valor variable. Se utiliza comúnmente para ajustar el brillo de una luz, el volumen de un dispositivo de audio o el rango de movimiento de un motor, entre otras aplicaciones.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/47387f4a-390d-4b31-9800-f3ce7267724c)| 1 | $53.50|
-|6 | Motor a Pasos | Un motor a pasos es un tipo de motor que convierte impulsos eléctricos en movimientos discretos o pasos angulares. Estos motores son utilizados en aplicaciones donde se requiere precisión en el posicionamiento, como impresoras 3D, máquinas CNC y sistemas de automatización. | ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/97a806aa-c7e3-4a98-8c9a-ddafefa69665) | 1 | $60.00|
-|7| Sensor Relé| Un relé es un interruptor controlado eléctricamente que permite controlar circuitos de alta potencia con señales de baja potencia. | ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/44963d48-b002-4db7-93ca-21cb41be68b7) | 1| $100.00|
+| 3  | Led | El LED es un diodo emisor de luz (en inglés, LightYmitón reyodo), un componente capaz de transformar la energía eléctrica en energía luminosa.|![image](https://th.bing.com/th/id/OIP.wBeviiMCRZC3HXgocOtHJAAAAA?w=236&h=179&c=7&r=0&o=5&dpr=1.5&pid=1.7)| 1 | $2.00|
+| 4 | KY-026 Flame |El sensor de llama KY-026 (flame sensor Arduino) permite detectar la presencia de una llama abierta mediante un receptor de infrarrojos. El sensor puede utilizarse para crear una alarma de incendio en la casa y muchos otros dispositivos útiles.|![image](https://th.bing.com/th/id/OIP.AKYbGy91Cm68LBitbNUGJwHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)| 1 | $49.00|
+| 5 | ky-004 Button | También conocidos como interruptores de pulsación, son dispositivos electromecánicos que se utilizan para abrir o cerrar circuitos eléctricos temporalmente mediante una acción de presión. Su diseño básico consiste en un mecanismo de contacto que se activa al ser presionado y que, al liberar la presión, retorna a su posición original.|![image](https://th.bing.com/th/id/OIP.fDhukQZX36Zz-IO-_xsPEwHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7)| 1 | $3.50|
+|6 | ky-024 Linear Hall | es un módulo que los permite detectar el campo magnético de un imán artificial o de algún material ferromagnético. | ![image](https://www.bing.com/rp/zYRmeqAEd4Z0yDRz8nuL0syHMEI.svg) | 1 | $89.50|
+|7| Ky-016 RGB Led| es un componente que consta de un LED RGB de 5 mm y es capaz de emitir luz de diferentes colores mediante la mezcla de los colores primarios del sistema RGB (rojo, verde y azul). | ![image](https://th.bing.com/th/id/OIP.ygAFlEGyH92msHL3_LakzQHaHa?w=208&h=209&c=7&r=0&o=5&dpr=1.5&pid=1.7) | 1| $61.00|
 |8| Sensor de movimiento PIR HC-SR501| El sensor de movimiento PIR HC-SR501 detecta el movimiento mediante la radiación infrarroja y se utiliza en proyectos de seguridad y automatización.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/5d142779-7623-43f5-8dfe-5010f5e21952)|1|$50.00|
 
 
@@ -37,7 +36,7 @@
 | 5 |Thonny| 4.1.2|Software Libre|
 
 ## Visión del producto 
-"Para artistas y artesanos de la talavera que buscan mejorar la eficiencia y calidad en la producción tradicional de la talavera, EL sistema Tecnotails es un sistema de IoT integrado que optimiza el proceso de producción mediante la monitorización en tiempo real y la regulación automatizada. A diferencia de los métodos tradicionales que pueden llevar a errores y desperdicio de materiales, nuestro sistema proporciona una solución tecnológica innovadora que preserva la autenticidad del arte de la talavera mientras mejora la eficiencia y calidad en cada etapa del proceso."
+"Para los propietarios de hamburgueserías que buscan elevar la calidad y eficiencia de su servicio, BurgerTech ofrece un sistema de gestión integral diseñado específicamente para la industria de la comida rápida. Este sistema aprovecha tecnologías avanzadas para optimizar todos los aspectos del servicio. A diferencia de los métodos convencionales que pueden resultar en tiempos de espera prolongados y variabilidad en la calidad del servicio, nuestro sistema asegura una experiencia consistente y de alta calidad para cada persona. Hi - Tech Burger es la solución tecnológica que transforma y moderniza tu hamburguesería."
 
 
 ## Conexiones 
@@ -48,13 +47,13 @@
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
 |---|----------------------|:---:|:---:|--- |:---: |
-| 1 |Con el sensor de flujo se medirá la cantidad de agua al usar en la mezcla de esmalte| Alta | Alta | Preparar mezcla de esmalte | Oscar |
-| 2 |Con el buzzer activo sonará una alerta cuando se pase el tiempo de cocción | Media | Alta |Prender el horno y hornear| Roxana | 
-| 3 |Con un relay KY-019 controlará la velocidad del motor de la batidora | Alta | Alta | Una preparación de esmalte | Manuel |
-| 4 |Usaremos un KY-001 Temperature Sensor Module que detectara cuando exista una temperatura elevada y mandara una alerta al controlador para que active los ventiladores del cuarto de decoraciones |Alta|Alta|Al detectar calor en el area |Roxana|
-| 5 |Con un potenciometro controlaremos un motor a pasos que hara la funcion de mezclar esmalte con los distintas tonalidades de colores|Media|Alta|Se evaluara distintas mediciones para evitar que se muy rapido el movimiento |Manuel|
-| 6 |Con un reele controlaremos el flujo de agua hasta la batidora de esmalte |Alta|Alta|Probando con una mangera el abierro y cerado del paso de agua|Roxana|
-| 7 |Sensor de movimiento PIR HC-SR501 que detecte movimiento al salir o entrar al taller| Media | Alta | Activando al detectar movimiento en la salida del personal |Oscar|
+| 1 |Con el sensor de gas quiero que el sistema detecte gases peligrosos para segurar un ambiente segur | Alta | Alta | Realizar prubas con gases controlados | Manuel |
+| 2 |Con el buzzer activo sonará una alerta cuando se detecte gas | Media | Alta |comprobar que el buzzer emite sonidos cuanda se active el sensor de gas| Manuel | 
+| 3 |Con el led quiero que los trabajadores se den cuenta que algun cliente necesita algun servicio  | Alta | Alta | Testaer los 2 diferentes esados del led para comprobar que si funciona bien | Manuel |
+| 4 |Usaremos un KY-026 Flame que detectara llamas para prevenir un incendio |Alta|Alta| Realizar pruebas con una llama controlada para comprobar la sensibilidad del sensor. |Roxana|
+| 5 |Conn el Button queremos interactuar con el les para el servicio al cliente|Media|Alta|Asegurar que el botón responde a pulsaciones para cambiar configuraciones | Roxana |
+| 6 | Los dueños del lugar no dijeron que aveces el congelador se queda un poco abierto lo que ocasiona qeu las carnes se descongelen es por eso que decidimos utilizar el KY-024 Lineal Hall para detectar que la puerta este cerrada correctamente |Alta|Alta| Probar con  campos magnéticos y verificar la respuesta del sensor. | Roxana |
+| 7 |El RGB Led ira junto con el KY-024 para detectar la respuesta del iman y cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo de alerta o estado. |Roxana|
 
 ## Prototipo en Dibujo
 - Coloca una imagen de tu proyecto al iniciar el desarrollo
