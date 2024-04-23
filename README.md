@@ -43,7 +43,7 @@
 - Imagenes de Wokwi, Fritzing o de otro software que me permita mostrar las conexiones del circuito.
 - Raspberry Pi
 - ESP 32
-- ![image](https://drive.google.com/file/d/1a_8tHRyENHKcqi61c1hknkrTHVAthls_/view?usp=drive_link)
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Captura%20de%20pantalla%202024-04-23%20082306.png)
 
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
