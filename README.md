@@ -21,7 +21,7 @@
 | 5 | ky-004 Button | También conocidos como interruptores de pulsación, son dispositivos electromecánicos que se utilizan para abrir o cerrar circuitos eléctricos temporalmente mediante una acción de presión. Su diseño básico consiste en un mecanismo de contacto que se activa al ser presionado y que, al liberar la presión, retorna a su posición original.|![image](https://th.bing.com/th/id/OIP.fDhukQZX36Zz-IO-_xsPEwHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7)| 1 | $3.50|
 |6 | ky-024 Linear Hall | es un módulo que los permite detectar el campo magnético de un imán artificial o de algún material ferromagnético. | ![image](https://th.bing.com/th/id/OIP.Mr4DXMhPUnWEG8JCQGZoqQHaGW?w=218&h=187&c=7&r=0&o=5&dpr=1.5&pid=1.7) | 1 | $89.50|
 |7| Ky-016 RGB Led| es un componente que consta de un LED RGB de 5 mm y es capaz de emitir luz de diferentes colores mediante la mezcla de los colores primarios del sistema RGB (rojo, verde y azul). | ![image](https://th.bing.com/th/id/OIP.ygAFlEGyH92msHL3_LakzQHaHa?w=208&h=209&c=7&r=0&o=5&dpr=1.5&pid=1.7) | 1| $61.00|
-|8| Sensor de movimiento PIR HC-SR501| El sensor de movimiento PIR HC-SR501 detecta el movimiento mediante la radiación infrarroja y se utiliza en proyectos de seguridad y automatización.|![image](https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/5d142779-7623-43f5-8dfe-5010f5e21952)|1|$50.00|
+|8| Teclado numérico matricial 4x4| Un teclado matricial 4×4 es un dispositivo que agrupa varios pulsadores y permite controlarlos empleando un número de conductores inferior al que necesitaríamos al usarlos de forma individual.|![image](https://th.bing.com/th/id/OIP.pG6YHPeKnGuRO-AEatIYwgHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7)|1|$69.00|
 
 
 
