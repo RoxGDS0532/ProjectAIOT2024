@@ -50,6 +50,8 @@
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Captura%20de%20pantalla%202024-04-23%20082306.png)
 - Imagen(MQ2 sensor de gas y Flame)
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Captura%20de%20pantalla%202024-04-23%20084318.png)
+- Imagen de la Alarma
+- 
 
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
@@ -60,11 +62,11 @@
 | 4 |Usaremos un KY-026 Flame que detectara llamas para prevenir un incendio |Alta|Alta| Realizar pruebas con una llama controlada para comprobar la sensibilidad del sensor. |Roxana|
 | 5 |Conn el Button queremos interactuar con el les para el servicio al cliente|Media|Alta|Asegurar que el botón responde a pulsaciones para cambiar configuraciones | Manuel |
 | 6 | Los dueños del lugar no dijeron que aveces el congelador se queda un poco abierto lo que ocasiona qeu las carnes se descongelen es por eso que decidimos utilizar el KY-024 Lineal Hall para detectar que la puerta este cerrada correctamente |Alta|Alta| Probar con  campos magnéticos y verificar la respuesta del sensor. | Roxana |
-| 7 |El RGB Led ira junto con el KY-024 para detectar la respuesta del iman y cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo de alerta o estado. |Roxana|
-| 8 |El RGB Led ira junto con el KY-024 para detectar la respuesta del iman y cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo de alerta o estado. |Roxana|
-| 9 |El RGB Led ira junto con el KY-024 para detectar la respuesta del iman y cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo de alerta o estado. |Roxana|
-| 10 |El RGB Led ira junto con el KY-024 para detectar la respuesta del iman y cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo de alerta o estado. |Roxana|
-| 10 |El RGB Led ira junto con el KY-024 para detectar la respuesta del iman y cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo de alerta o estado. |Roxana|
+| 7 |El RGB Led ira junto con el teclado para detectar su respuesta cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo deestado. |Roxana|
+| 8 | EL teclado lo utilizaremos para desactivar la alarma que sera detectada por el HCSR04 |Media | Media | Verificar que se pueda intrudcir la contraseña |Roxana|
+| 9 |La oled la usaremos como respuesta a las temperaturas de la cocina junto con la ky-015  |Media | Media | Comprobar la repsuesta de las temperaturas y sus cambios |Manuel|
+| 10 |Ky-015 con el detectaremos las temperaturas que se muesyren en la HCSR04 | Media | Media | Comprobar que el Ky-015 cambia de ctemeperatura estado. |Manuel|
+| 10 |HCRS04 lo utilizaremos para detectar las si alguien esta dentro del local por las noches | Alta | Alta | Verificar qeu detecte la distancia sugerida |Roxana|
 
 ## Prototipo en Dibujo
 - Coloca una imagen de tu proyecto al iniciar el desarrollo
