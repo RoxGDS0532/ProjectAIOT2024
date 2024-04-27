@@ -52,6 +52,8 @@
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Captura%20de%20pantalla%202024-04-23%20084318.png)
 - Imagen de la Alarma
 - 
+- Imagen de la Temperatura
+- 
 
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
