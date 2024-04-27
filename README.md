@@ -49,7 +49,7 @@
 - Imagen de la Alarma
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Alarma.png)
 - Imagen de la Temperatura
-- ![image]()
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Oled.png)
 
 ## Funcionalidades del proyecto
 |Id | Historia de ususario | Prioridad | Estimación | Como probarlo | Respondsable|
@@ -67,7 +67,9 @@
 | 11 |HCRS04 lo utilizaremos para detectar las si alguien esta dentro del local por las noches | Alta | Alta | Verificar qeu detecte la distancia sugerida |Roxana|
 
 ## Prototipo en Dibujo
-- Coloca una imagen de tu proyecto al iniciar el desarrollo
+- ![image]()
+- ![image]()
+- ![image]()
 
 ## Evidencias 
 - Captura de pantalla de los flujos de node RED
