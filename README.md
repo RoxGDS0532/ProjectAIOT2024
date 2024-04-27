@@ -47,7 +47,7 @@
 - Imagen(MQ2 sensor de gas y Flame)
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Captura%20de%20pantalla%202024-04-23%20084318.png)
 - Imagen de la Alarma
-- ![image]()
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Alarma.png)
 - Imagen de la Temperatura
 - ![image]()
 
