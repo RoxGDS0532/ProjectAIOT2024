@@ -5,11 +5,7 @@
 - Ortega Renteria Maria Roxana 1222100822
   
 ## Carta de liberación del proyecto (imagen)
-- Dirgida al docento
-- Expresar las funcionalidades que tiene el proyecto
-- Nombre de los integrantes que particparon en el proyecto
-- Firmada por el empresario o docenete ageno a la UTNG, agradeciendo la contribucion de la UTNG.
-- Hoja Membretada (Logo de la empresa, direccion y contacto)
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/AlassBurger.jpg)
 
 ## Lista del Hardware utilizada
 | Id | Componente | Descripcion |Imagen |Cantidad |Costo total|
