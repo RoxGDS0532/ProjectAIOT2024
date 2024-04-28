@@ -63,13 +63,13 @@
 | 7 |El RGB Led ira junto con el teclado para detectar su respuesta cambie de color | Media | Alta | Comprobar que el LED RGB cambia de color según el tipo deestado. |Roxana|
 | 8 | EL teclado lo utilizaremos para desactivar la alarma que sera detectada por el HCSR04 |Media | Media | Verificar que se pueda intrudcir la contraseña |Roxana|
 | 9 |La oled la usaremos como respuesta a las temperaturas de la cocina junto con la ky-015  |Media | Media | Comprobar la repsuesta de las temperaturas y sus cambios |Manuel|
-| 10 |Ky-015 con el detectaremos las temperaturas que se muesyren en la HCSR04 | Media | Media | Comprobar que el Ky-015 cambia de ctemeperatura estado. |Manuel|
+| 10 |Ky-015 con el detectaremos las temperaturas que se muestren en la HCSR04 | Media | Media | Comprobar que el Ky-015 cambia de ctemeperatura estado. |Manuel|
 | 11 |HCRS04 lo utilizaremos para detectar las si alguien esta dentro del local por las noches | Alta | Alta | Verificar qeu detecte la distancia sugerida |Roxana|
 
 ## Prototipo en Dibujo
-- ![image]()
-- ![image]()
-- ![image]()
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Plano.png)
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Cliente.png)
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Cocina.png)
 
 ## Evidencias 
 - Captura de pantalla de los flujos de node RED
