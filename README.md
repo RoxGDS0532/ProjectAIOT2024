@@ -48,7 +48,7 @@
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Captura%20de%20pantalla%202024-04-23%20084318.png)
 - Imagen de la Alarma
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Alarma.png)
-- Imagen de la Temperatura
+- Imagen de la Temperatura 
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Oled.png)
 
 ## Funcionalidades del proyecto
@@ -77,6 +77,10 @@
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Fuego%20y%20Gas.jpg)
 - Flujo de Atencion al Cliente
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Atencion%20al%20cliente.jpg)
+- Imagen de la Temperatura
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/temperatura.jpg)
+- Imagen de la Alarma
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/alarma.jpg)
 - Captura de pantalla del proyecto DASHBOARD Y pantalla de la ESP32
 - Video demostrativo de las funcionalidades del proyecto
 - Codigo fuente (PROHIBIDO PONER COMPRIMIDOS)
