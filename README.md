@@ -21,6 +21,7 @@
 |9| Oled | El driver que utiliza el modulo es SSD1306 su función es comunicar con el microcontrolador para obtener los datos y enviarlos a la pantalla OLED. La comunicación entre el SSD1306 y el microcontrolador se realiza mediante SPI o I2C|![image](https://th.bing.com/th/id/OIP.hvQmn_iq0oyTSYMRa7c4twHaJ8?w=143&h=192&c=7&r=0&o=5&dpr=1.5&pid=1.7)|1|$63.00|
 |10| ky-015 |Es un sensor de temperatura y humedad de salida de señal digital, tiene un tamaño ultra compacto, es de bajo consumo de energía y tiene gran utilidad cuando se requiere detectar dos magnitudes al mismo tiempo |![image](https://th.bing.com/th/id/OIP.BQXWw6QW0Bw4ivEUp510BwHaFj?w=220&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)|1|$55.00|
 |11| HCSR04 |El Sensor ultrasónico HC-SR04 es un circuito que detecta o mide la distancia y es compatible con Arduino. El sensor puede detectar objetos, distancia o nivel en un rango mínimo de 2 cm a un máximo de 400 cm. Se puede utilizar, por ejemplo, para diferentes tipos de proyectos como lo son alarmas de proximidad |![image](https://th.bing.com/th/id/OIP.s7hKOSRD1q0bAHRGhqRRSgHaHa?w=151&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)|1|$80.00|
+|12| Cables Dupont | Son cables de unión que permiten la conexión o comunicación entre diferentes dispositivos de los circuitos electrónicos, puede usarse para conectar líneas de voltaje, sensores, tarjetas programables, etc |![image](https://th.bing.com/th/id/OIP.IN5Fg_78RTex5S9tAAa2wQHaDv?w=350&h=176&c=7&r=0&o=5&dpr=1.5&pid=1.7)|1|$150.00|
 
 
 
