@@ -73,6 +73,10 @@
 
 ## Evidencias 
 - Captura de pantalla de los flujos de node RED
+- Flujo de los sensores de Gas y Fuego
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Fuego%20y%20Gas.jpg)
+- Flujo de Atencion al Cliente
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Atencion%20al%20cliente.jpg)
 - Captura de pantalla del proyecto DASHBOARD Y pantalla de la ESP32
 - Video demostrativo de las funcionalidades del proyecto
 - Codigo fuente (PROHIBIDO PONER COMPRIMIDOS)
