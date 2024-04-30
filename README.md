@@ -82,6 +82,19 @@
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/temperatura.jpg)
 - Imagen de la Alarma
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/alarma.jpg)
+- Imagenes de las bases de datos
+- Base de Datos
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/Basede%20datos1.jpg)
+- Atencion al cliente
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/boton.jpg)
+- Sensor de Fuego
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/fuego.jpg)
+- Sensor de Gas
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/gas.jpg)
+- Sensor de Temperatura
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/temperaturadb.jpg)
+- Sensor ultrasonico
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/ultrasonico.jpg)
 - Captura de pantalla del proyecto DASHBOARD Y pantalla de la ESP32
 - Video demostrativo de las funcionalidades del proyecto
 - Codigo fuente (PROHIBIDO PONER COMPRIMIDOS)
