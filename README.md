@@ -98,7 +98,8 @@
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/temperaturadb.jpg)
 - Sensor ultrasonico
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/ultrasonico.jpg)
-- Captura de pantalla del proyecto DASHBOARD Y pantalla de la ESP32
+- Captura de pantalla del proyecto DASHBOARD
+- ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/dashboard.jpg)
 - Video demostrativo de las funcionalidades del proyecto
 - ![https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/VideoAlassBurger.mp4]
   
