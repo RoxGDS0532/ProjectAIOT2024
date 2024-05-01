@@ -103,3 +103,7 @@
 - Video demostrativo de las funcionalidades del proyecto
 - ![https://youtu.be/k8zE8BuUfas]
   
+
+https://github.com/RoxGDS0532/ProjectAIOT2024/assets/141853929/c39e3e66-59a2-42e2-ba58-b4d2d36a2929
+
+
