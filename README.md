@@ -101,5 +101,5 @@
 - Captura de pantalla del proyecto DASHBOARD
 - ![image](https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/dashboard.jpg)
 - Video demostrativo de las funcionalidades del proyecto
-- ![https://github.com/RoxGDS0532/ProjectAIOT2024/blob/main/VideoAlassBurger.mp4]
+- ![image](https://youtu.be/k8zE8BuUfas)
   
